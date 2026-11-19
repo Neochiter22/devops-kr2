@@ -1,3 +1,4 @@
+# KR2: Evtenko
 import os
 import socket
 
